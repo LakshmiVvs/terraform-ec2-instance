@@ -1,0 +1,9 @@
+# Terraform generated directories and files
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+terraform.tfplan
